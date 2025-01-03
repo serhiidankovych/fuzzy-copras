@@ -16,6 +16,10 @@ Fuzzy COPRAS (Complex Proportional Assessment) is a multi-criteria decision-maki
 ![image](https://github.com/user-attachments/assets/177e92fc-d832-4ab0-be01-9a9715ec0e38)
 ![image](https://github.com/user-attachments/assets/6a60a614-d33e-4e04-824a-9eefb37f3375)
 
+## Demo
+
+[Check out the live demo here!](https://spectacular-brigadeiros-66254a.netlify.app/)
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
